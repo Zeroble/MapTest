@@ -1,0 +1,5 @@
+﻿  source.cpp
+g:\민용파일\programming\c언어\c언어projects\maptest\maptest\source.cpp(9): warning C4091: 'typedef ': 변수를 선언하지 않으면 'g_Player' 왼쪽은 무시됩니다.
+g:\민용파일\programming\c언어\c언어projects\maptest\maptest\source.cpp(14): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  MapTest.vcxproj -> G:\민용파일\Programming\C언어\C언어Projects\MapTest\Debug\MapTest.exe
+  MapTest.vcxproj -> G:\민용파일\Programming\C언어\C언어Projects\MapTest\Debug\MapTest.pdb (Partial PDB)
